@@ -114,11 +114,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="150.cpp" />
+    <ClCompile Include="151.cpp" />
     <ClCompile Include="20171025(2).cpp" />
     <ClCompile Include="20171025.cpp" />
     <ClCompile Include="20171026.cpp" />
     <ClCompile Include="20171027.cpp" />
-    <ClCompile Include="quick.cpp" />
+    <ClCompile Include="563.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

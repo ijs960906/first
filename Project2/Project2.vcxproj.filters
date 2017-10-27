@@ -27,7 +27,13 @@
     <ClCompile Include="20171027.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="quick.cpp">
+    <ClCompile Include="563.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="150.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="151.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
